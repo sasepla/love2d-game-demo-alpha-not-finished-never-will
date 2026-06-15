@@ -8,3 +8,5 @@ direccionales/flechitas: moverse
 disparar: z o espacio
 
 bomba limpia pantallas: x
+
+dusd04
